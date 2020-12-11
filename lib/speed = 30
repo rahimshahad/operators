@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /mnt/c/Users/salis_vym54hj/Development/code/phase1/operators/lib/operations.rb:14 :
+
+     [1;34m9[0m:         [32mreturn[0m [31m[1;31m"[0m[31mtrue[1;31m"[0m[31m[0m
+    [1;34m10[0m:     [32melsif[0m speed > [1;34m40[0m && speed <[1;34m60[0m
+    [1;34m11[0m:         [32mreturn[0m [31m[1;31m"[0m[31mfalse[1;31m"[0m[31m[0m
+    [1;34m12[0m:     [32mend[0m
+    [1;34m13[0m: [32mend[0m
+ => [1;34m14[0m: binding.pry
+    [1;34m15[0m: 
+    [1;34m16[0m: 
+    [1;34m17[0m: 
+    [1;34m18[0m: [32mdef[0m [1;34mnot_safe?[0m(speed)
+    [1;34m19[0m:     speed < [1;34m40[0m ?
+
